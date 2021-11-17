@@ -10,11 +10,11 @@ The core source code is provided in this repository, and the remaining sub-files
 <br>
 **Proposed Model Architecture:**
 <br>
-![This is an image](/msc_model_architecture.jpg)
+![This is an image](/Model_Architecture_&_Workflow/msc_model_architecture.jpg)
 <br>
 <br>
 <br>
 <br>
 **Proposed Model Workflow:**
 <br>
-![This is an image](https://github.com/jjrosesagoro/README-Images/blob/main/msc_model_workflow.jpg)
+![This is an image](/Model_Architecture_&_Workflow/msc_model_workflow.jpg)
