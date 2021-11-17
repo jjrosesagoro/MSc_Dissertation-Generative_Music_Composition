@@ -10,7 +10,7 @@ The core source code is provided in this repository, and the remaining sub-files
 <br>
 **Proposed Model Architecture:**
 <br>
-![This is an image](https://github.com/jjrosesagoro/README-Images/blob/main/msc_model_architecture.jpg)
+![This is an image](https://github.com/jjrosesagoro/README-Images/blob/main/msc_model_architecture.jpg?raw=true)
 <br>
 <br>
 <br>
